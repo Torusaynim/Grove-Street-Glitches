@@ -38,6 +38,33 @@ Half-Life — это приключенческий шутер от первог
 
 ## Диаграмма вариантов использования
 
+В Half-Life используется стандартная раскладка управления, позаимствованная практически целиком с игры Quake. Кроме того, многие современные шутеры имеют схожую раскладку — потому у большинства не должно возникнуть трудностей. При необходимости вы всегда можете изменить их в настройках игры. Также в игре есть тренировочный курс, который научит вас основным аспектам игры и поможет быстрее привыкнуть к управлению
+
+| Кнопка |	Действие |
+|:------:|:---------:|
+| ![↑](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/cursor-up.svg) or ![W](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/w.svg) | Идти вперёд |
+| ![↓](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/cursor-down.svg) or ![S](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/s.svg) | Идти назад |
+| ![A](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/a.svg)	|	Идти влево |
+| ![D](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/d.svg)	|	Идти вправо |
+| ![←](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/cursor-left.svg)	|	Повернуться налево |
+| ![→](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/cursor-right.svg)	| Повернуться направо |
+| ![Space](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/spacebar.svg) or ![Insert](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/insert.svg)	|	Прыжок |
+| ![Ctrl](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/ctrl.svg) | Пригнуться |
+| ![Enter](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/enter.svg) or ![E](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/e.svg) | Взаимодействие |
+| ![PC Mouse Left Click](https://img.icons8.com/office/80/000000/mouse-left-click.png)	|	Основной огонь |
+| ![PC Mouse Right Click](https://img.icons8.com/office/80/000000/mouse-right-click.png) | Вторичный огонь |
+| ![R](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/r.svg) or ![Backspace](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/backspace.svg) | Перезарядка |
+| ![Shift](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/shift.svg) | Перейти на шаг |
+| ![F](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f.svg)	|	Фонарик |
+| ![T](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/t.svg)	|	Нанести спрей (граффити) |
+| ![1](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/1.svg) ![2](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/2.svg) ![3](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/3.svg) ![4](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/4.svg) ![5](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/5.svg) | Выбор категории оружия |
+| ![PC Mouse Middle Click](https://img.icons8.com/office/90/000000/mouse-scrolling.png)	|	Выбор внутри категории |
+| ![Q](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/q.svg) | Предыдущее оружие |
+| ![F5](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f5.svg) | Снимок экрана |
+| ![F6](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f6.svg) | Быстрое сохранение |
+| ![F7](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f7.svg) | Быстрая загрузка |
+| ![Esc](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/esc.svg)	| Пауза |
+
 <p align="center">🚧 <b>НЕ ФИНАЛЬНЫЙ РЕЗУЛЬТАТ</b> 🚧</p>
 
 [:arrow_up:Оглавление](#Оглавление)
