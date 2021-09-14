@@ -113,7 +113,7 @@ Half-Life — это приключенческий шутер от первог
 
 <p align="center"><img src="assets/Object_boost.png"></p>
 
-https://user-images.githubusercontent.com/56824837/133257043-3e943661-4ce2-4333-a767-112082d1627d.mp4
+https://user-images.githubusercontent.com/56824837/133257266-32199a03-b484-4b59-9fc1-84b52bed4bc6.mp4
 
 ### Ускорение от пушки Гаусса
 
