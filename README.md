@@ -38,6 +38,9 @@ Half-Life — это приключенческий шутер от первог
 
 В Half-Life используется стандартная раскладка управления, позаимствованная практически целиком с игры Quake. Кроме того, многие современные шутеры имеют схожую раскладку — потому у большинства не должно возникнуть трудностей. При необходимости вы всегда можете изменить их в настройках игры. Также в игре есть тренировочный курс, который научит вас основным аспектам игры и поможет быстрее привыкнуть к управлению
 
+<details>
+<summary>Подробнее о раскладке кнопок...</summary>
+
 | Кнопка |	Действие |
 |:------:|:---------:|
 | ![↑](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/cursor-up.svg) or ![W](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/w.svg) | Идти вперёд |
@@ -62,6 +65,8 @@ Half-Life — это приключенческий шутер от первог
 | ![F6](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f6.svg) | Быстрое сохранение |
 | ![F7](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/f7.svg) | Быстрая загрузка |
 | ![Esc](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/svg/esc.svg)	| Пауза |
+
+</details>
 
 [:arrow_up:Оглавление](#Оглавление)
 
