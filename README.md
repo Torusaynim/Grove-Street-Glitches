@@ -1,6 +1,6 @@
-# Resonance-Cascade
+<h1 align="center">Resonance-Cascade</h1>
 
-<p align="center"><img src="assets/Half-Life_poster.jpg"></p>
+<p align="center"><img src="assets/Half-Life_poster.jpg" width="70%"></p>
 
 <p align="center">Наш проект заключается в поиске и описании багов внутри игры Half-Life</p>
 
